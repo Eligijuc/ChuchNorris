@@ -9,7 +9,7 @@
         android:id="@+id/fetchJokeButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Seroius fact about Chuck Norris!"
+        android:text="Serious fact about Chuck Norris!"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
